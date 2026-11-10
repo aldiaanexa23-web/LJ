@@ -1,0 +1,6 @@
+{
+  "name": "Your Favourite Distraction",
+  "description": "Interactive curated verification quiz and digital boarding pass challenge for That Cute Guy in Bali by Aldia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
